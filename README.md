@@ -22,7 +22,7 @@ This project includes both Exploratory Data Analysis (EDA) and predictive modeli
 
 ## 🗂️ Dataset
 
-- **Source**: [Kaggle Google Stock Prices](https://www.kaggle.com/)
+- **Source**: [Kaggle Google Stock Prices](https://www.kaggle.com/datasets/youssefelebiary/google-stock-prices-2015-2024)
 - **Columns**:
   - `Date`: Trading day
   - `Open`: Opening price
