@@ -27,7 +27,7 @@ There is a **drastic spike in trading volume starting mid-2022**, continuing int
 
 ---
 
-### 🤭 Price Distribution Patterns  
+###  Price Distribution Patterns  
 The histogram of **close prices** reveals shifting price regimes — periods where prices cluster in specific ranges — suggesting different **growth phases** across the 10-year timeline.
 
 ---
