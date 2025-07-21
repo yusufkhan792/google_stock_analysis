@@ -1,6 +1,6 @@
 # 📈 Google Stock Price Analysis (2015–2024)
 
-This project presents an exploratory data analysis (EDA) and visualization of **Alphabet Inc. (GOOGL)** daily stock prices spanning nearly a decade — from 2015 to 2024. The dataset offers insights into stock price trends, volatility, volume shifts, and return behavior.
+This project presents an exploratory data analysis (EDA) and visualization of **Alphabet Inc. (GOOGL)** daily stock prices spanning nearly a decade from 2015 to 2024. The dataset offers insights into stock price trends, volatility, volume shifts, and return behavior.
 
 ---
 
